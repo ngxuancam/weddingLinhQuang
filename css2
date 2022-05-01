@@ -1,0 +1,29 @@
+﻿@font-face {
+  font-family: 'Coiny';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/coiny/v16/gyByhwU1K989PXwb.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Jura';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/jura/v22/z7NOdRfiaC4Vd8hhoPzfb5vBTP0D7auh.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'MonteCarlo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/montecarlo/v5/buEzpo6-f9X01GadLA0G0Co.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Tourney';
+  font-style: normal;
+  font-weight: 100;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/tourney/v4/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GOQByZQ.ttf) format('truetype');
+}
